@@ -26,7 +26,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#democratic-unionist-party-(ni)">Democratic Unionist Party (NI)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#democratic-unionist-party-(ni)">Democratic Unionist Party (NI)</a> | 1 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 1 | 1 | 1 |1–2 |1–2 |1–2 |
 | <a href="#ulster-unionist-party-(ecr)">Ulster Unionist Party (ECR)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#alliance-party-of-northern-ireland-(alde)">Alliance Party of Northern Ireland (ALDE)</a> | 0 | 0 | 0 |0 |0 |0–1 |
@@ -40,8 +40,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 51% | 100% | Last Result, Median |
-| 2 | 49% | 49% | Majority |
+| 1 | 46% | 100% | Last Result |
+| 2 | 54% | 54% | Median, Majority |
 | 3 | 0% | 0% |  |
 
 ### Sinn Féin (GUE/NGL)
@@ -52,8 +52,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 94% | 100% | Last Result, Median |
-| 2 | 6% | 6% | Majority |
+| 1 | 95% | 100% | Last Result, Median |
+| 2 | 5% | 5% | Majority |
 | 3 | 0% | 0% |  |
 
 ### Ulster Unionist Party (ECR)
@@ -64,8 +64,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 57% | 100% | Median |
-| 1 | 43% | 43% | Last Result |
+| 0 | 62% | 100% | Median |
+| 1 | 38% | 38% | Last Result |
 | 2 | 0% | 0% | Majority |
 
 ### Alliance Party of Northern Ireland (ALDE)
@@ -88,8 +88,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.6% | 100% | Last Result, Median |
-| 1 | 0.4% | 0.4% |  |
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0.3% | 0.3% |  |
 | 2 | 0% | 0% | Majority |
 
 
@@ -101,8 +101,8 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Democratic Unionist Party (NI) | 1 | 1 | 49% | 1–2 | 1–2 | 1–2 | 1–2 |
-| Sinn Féin (GUE/NGL) | 1 | 1 | 6% | 1 | 1–2 | 1–2 | 1–2 |
+| Democratic Unionist Party (NI) | 1 | 2 | 54% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Sinn Féin (GUE/NGL) | 1 | 1 | 5% | 1 | 1–2 | 1–2 | 1–2 |
 | Alliance Party of Northern Ireland (ALDE) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
 | Social Democratic and Labour Party (S&D) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
@@ -112,8 +112,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 51% | 100% | Last Result, Median |
-| 2 | 49% | 49% | Majority |
+| 1 | 46% | 100% | Last Result |
+| 2 | 54% | 54% | Median, Majority |
 | 3 | 0% | 0% |  |
 
 ### Sinn Féin (GUE/NGL)
@@ -122,8 +122,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 94% | 100% | Last Result, Median |
-| 2 | 6% | 6% | Majority |
+| 1 | 95% | 100% | Last Result, Median |
+| 2 | 5% | 5% | Majority |
 | 3 | 0% | 0% |  |
 
 ### Alliance Party of Northern Ireland (ALDE)
@@ -142,8 +142,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.6% | 100% | Last Result, Median |
-| 1 | 0.4% | 0.4% |  |
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0.3% | 0.3% |  |
 | 2 | 0% | 0% | Majority |
 
 
@@ -158,6 +158,6 @@
 ### Calculations
 
 + **Sample size:** 555
-+ **Simulations done:** 16,384
-+ **Error estimate:** 4.25%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.46%
 
