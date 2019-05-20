@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/northern_irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 16 Apr 2019 21:35:40 +0200</pubDate>
+    <pubDate>Mon, 20 May 2019 17:33:55 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by LucidTalk, 4–7 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-05-07-LucidTalk.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Democratic Unionist Party (NI): 18.2–22.4%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 24.9–29.6%&lt;/li&gt;&lt;li&gt;Social Democratic and Labour Party (S&amp;amp;D): 11.4–15.0%&lt;/li&gt;&lt;li&gt;Ulster Unionist Party (ECR): 10.2–13.6%&lt;/li&gt;&lt;li&gt;Alliance Party of Northern Ireland (ALDE): 9.8–13.1%&lt;/li&gt;&lt;li&gt;Traditional Unionist Voice (*): 7.1–10.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-05-07-LucidTalk.png"
+        length="220098"
+        type="image/png"/>
+      <pubDate>Mon, 20 May 2019 17:33:55 +0200</pubDate>
+      <dc:date>2019-05-20T17:33:55.271581+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Survation, 20 October–2 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/northern_irish_ep_polls/2018-11-02-Survation.html#seats</link>
@@ -39,6 +49,6 @@
       <pubDate>Tue, 16 Apr 2019 21:35:40 +0200</pubDate>
       <dc:date>2019-04-16T21:35:40.062793+02:00</dc:date>
     </item>
-    <dc:date>2019-04-16T21:35:40.062793+02:00</dc:date>
+    <dc:date>2019-05-20T17:33:55.271581+02:00</dc:date>
   </channel>
 </rss>
