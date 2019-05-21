@@ -42,8 +42,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 36% | 100% | Last Result |
-| 2 | 64% | 64% | Median, Majority |
+| 1 | 38% | 100% | Last Result |
+| 2 | 62% | 62% | Median, Majority |
 | 3 | 0% | 0% |  |
 
 ### Democratic Unionist Party (NI)
@@ -76,8 +76,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Median |
-| 1 | 3% | 3% | Last Result |
+| 0 | 96% | 100% | Median |
+| 1 | 4% | 4% | Last Result |
 | 2 | 0% | 0% | Majority |
 
 ### Alliance Party of Northern Ireland (ALDE)
@@ -88,8 +88,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.1% | 100% | Last Result, Median |
-| 1 | 0.9% | 0.9% |  |
+| 0 | 98.9% | 100% | Last Result, Median |
+| 1 | 1.1% | 1.1% |  |
 | 2 | 0% | 0% | Majority |
 
 ### Traditional Unionist Voice (*)
@@ -111,7 +111,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Sinn Féin (GUE/NGL) | 1 | 2 | 64% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Sinn Féin (GUE/NGL) | 1 | 2 | 62% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democratic Unionist Party (NI) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Social Democratic and Labour Party (S&D) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alliance Party of Northern Ireland (ALDE) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
@@ -122,8 +122,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 36% | 100% | Last Result |
-| 2 | 64% | 64% | Median, Majority |
+| 1 | 38% | 100% | Last Result |
+| 2 | 62% | 62% | Median, Majority |
 | 3 | 0% | 0% |  |
 
 ### Democratic Unionist Party (NI)
@@ -150,8 +150,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.1% | 100% | Last Result, Median |
-| 1 | 0.9% | 0.9% |  |
+| 0 | 98.9% | 100% | Last Result, Median |
+| 1 | 1.1% | 1.1% |  |
 | 2 | 0% | 0% | Majority |
 
 
@@ -166,6 +166,6 @@
 ### Calculations
 
 + **Sample size:** 1405
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.48%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.52%
 
