@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/northern_irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 22 May 2019 20:14:03 +0200</pubDate>
+    <pubDate>Thu, 23 May 2019 05:14:47 +0200</pubDate>
     <item>
       <title>Opinion Poll by LucidTalk, 18–19 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-05-19-LucidTalk.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-05-19-LucidTalk.png"
         length="221829"
         type="image/png"/>
-      <pubDate>Wed, 22 May 2019 20:14:03 +0200</pubDate>
-      <dc:date>2019-05-22T20:14:03.206135+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 05:14:47 +0200</pubDate>
+      <dc:date>2019-05-23T05:14:47.599175+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by LucidTalk, 4–7 May 2019 – Seat Projections for the Parties</title>
@@ -79,6 +79,6 @@
       <pubDate>Tue, 16 Apr 2019 21:35:40 +0200</pubDate>
       <dc:date>2019-04-16T21:35:40.062793+02:00</dc:date>
     </item>
-    <dc:date>2019-05-22T20:14:03.206135+02:00</dc:date>
+    <dc:date>2019-05-23T05:14:47.599175+02:00</dc:date>
   </channel>
 </rss>
