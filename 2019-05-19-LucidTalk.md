@@ -27,11 +27,11 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 1 | 1 | 1 |1 |1 |1–2 |
+| <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#democratic-unionist-party-(ni)">Democratic Unionist Party (NI)</a> | 1 | 1 | 1 |1 |1 |1 |
-| <a href="#social-democratic-and-labour-party-(s&d)">Social Democratic and Labour Party (S&D)</a> | 0 | 0 | 0 |0 |0 |0–1 |
-| <a href="#ulster-unionist-party-(ecr)">Ulster Unionist Party (ECR)</a> | 1 | 0 | 0 |0 |0 |0–1 |
-| <a href="#alliance-party-of-northern-ireland-(alde)">Alliance Party of Northern Ireland (ALDE)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
+| <a href="#social-democratic-and-labour-party-(s&d)">Social Democratic and Labour Party (S&D)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#ulster-unionist-party-(ecr)">Ulster Unionist Party (ECR)</a> | 1 | 0 | 0 |0 |0–1 |0–1 |
+| <a href="#alliance-party-of-northern-ireland-(alde)">Alliance Party of Northern Ireland (ALDE)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
 | <a href="#traditional-unionist-voice-(*)">Traditional Unionist Voice (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Sinn Féin (GUE/NGL)
@@ -42,8 +42,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.2% | 100% | Last Result, Median |
-| 2 | 0.8% | 0.8% | Majority |
+| 1 | 64% | 100% | Last Result, Median |
+| 2 | 36% | 36% | Majority |
 | 3 | 0% | 0% |  |
 
 ### Democratic Unionist Party (NI)
@@ -54,7 +54,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 100% | 100% | Last Result, Median |
+| 1 | 99.9% | 100% | Last Result, Median |
+| 2 | 0.1% | 0.1% | Majority |
+| 3 | 0% | 0% |  |
 
 ### Social Democratic and Labour Party (S&D)
 
@@ -64,8 +66,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 43% | 100% | Last Result |
+| 1 | 57% | 57% | Median |
 | 2 | 0% | 0% | Majority |
 
 ### Ulster Unionist Party (ECR)
@@ -76,8 +78,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.1% | 100% | Median |
-| 1 | 0.9% | 0.9% | Last Result |
+| 0 | 96% | 100% | Median |
+| 1 | 4% | 4% | Last Result |
 | 2 | 0% | 0% | Majority |
 
 ### Alliance Party of Northern Ireland (ALDE)
@@ -88,8 +90,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 96% | 96% | Median |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
 | 2 | 0% | 0% | Majority |
 
 ### Traditional Unionist Voice (*)
@@ -111,18 +113,10 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Democratic Unionist Party (NI) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
-| Sinn Féin (GUE/NGL) | 1 | 1 | 0.8% | 1 | 1 | 1 | 1–2 |
-| Alliance Party of Northern Ireland (ALDE) | 0 | 1 | 0% | 1 | 1 | 0–1 | 0–1 |
-| Social Democratic and Labour Party (S&D) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
-
-### Democratic Unionist Party (NI)
-
-![Graph with seats probability mass function not yet produced](2019-05-19-LucidTalk-coalitions-seats-pmf-dup.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 100% | 100% | Last Result, Median |
+| Sinn Féin (GUE/NGL) | 1 | 1 | 36% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Democratic Unionist Party (NI) | 1 | 1 | 0.1% | 1 | 1 | 1 | 1 |
+| Alliance Party of Northern Ireland (ALDE) | 0 | 0 | 0% | 0 | 0 | 0–1 | 0–1 |
+| Social Democratic and Labour Party (S&D) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Sinn Féin (GUE/NGL)
 
@@ -130,8 +124,18 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.2% | 100% | Last Result, Median |
-| 2 | 0.8% | 0.8% | Majority |
+| 1 | 64% | 100% | Last Result, Median |
+| 2 | 36% | 36% | Majority |
+| 3 | 0% | 0% |  |
+
+### Democratic Unionist Party (NI)
+
+![Graph with seats probability mass function not yet produced](2019-05-19-LucidTalk-coalitions-seats-pmf-dup.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 99.9% | 100% | Last Result, Median |
+| 2 | 0.1% | 0.1% | Majority |
 | 3 | 0% | 0% |  |
 
 ### Alliance Party of Northern Ireland (ALDE)
@@ -140,8 +144,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 96% | 96% | Median |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
 | 2 | 0% | 0% | Majority |
 
 ### Social Democratic and Labour Party (S&D)
@@ -150,8 +154,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 43% | 100% | Last Result |
+| 1 | 57% | 57% | Median |
 | 2 | 0% | 0% | Majority |
 
 
@@ -166,6 +170,6 @@
 ### Calculations
 
 + **Sample size:** 1482
-+ **Simulations done:** 1,024
-+ **Error estimate:** 1.58%
++ **Simulations done:** 524,288
++ **Error estimate:** 0.90%
 
