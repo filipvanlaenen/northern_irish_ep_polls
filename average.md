@@ -200,8 +200,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% | Last Result |
-| 1 | 57% | 57% | Median |
+| 0 | 44% | 100% | Last Result |
+| 1 | 56% | 56% | Median |
 | 2 | 0% | 0% | Majority |
 
 ### Traditional Unionist Voice (*)
@@ -276,14 +276,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% | Last Result |
-| 1 | 57% | 57% | Median |
+| 0 | 44% | 100% | Last Result |
+| 1 | 56% | 56% | Median |
 | 2 | 0% | 0% | Majority |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 1
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 524,288
-+ **Error estimate:** 0.90%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 1,048,576
++ **Error estimate:** 0.76%
