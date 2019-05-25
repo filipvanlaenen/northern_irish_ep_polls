@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/northern_irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 23 May 2019 05:14:47 +0200</pubDate>
+    <pubDate>Sat, 25 May 2019 09:17:36 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by LucidTalk, 18–19 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-05-19-LucidTalk.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Democratic Unionist Party (NI): 1 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Social Democratic and Labour Party (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Ulster Unionist Party (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Alliance Party of Northern Ireland (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Traditional Unionist Voice (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-05-19-LucidTalk-seats.png"
+        length="174285"
+        type="image/png"/>
+      <pubDate>Sat, 25 May 2019 09:17:36 +0200</pubDate>
+      <dc:date>2019-05-25T09:17:36.6244+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by LucidTalk, 18–19 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-05-19-LucidTalk.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-05-19-LucidTalk-coalitions-seats.png"
+        length="136966"
+        type="image/png"/>
+      <pubDate>Sat, 25 May 2019 09:17:36 +0200</pubDate>
+      <dc:date>2019-05-25T09:17:36.6244+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by LucidTalk, 18–19 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-05-19-LucidTalk.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-05-19-LucidTalk.png"
         length="221829"
         type="image/png"/>
-      <pubDate>Thu, 23 May 2019 05:14:47 +0200</pubDate>
-      <dc:date>2019-05-23T05:14:47.599175+02:00</dc:date>
+      <pubDate>Sat, 25 May 2019 09:17:36 +0200</pubDate>
+      <dc:date>2019-05-25T09:17:36.6244+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by LucidTalk, 4–7 May 2019 – Seat Projections for the Parties</title>
@@ -79,6 +99,6 @@
       <pubDate>Tue, 16 Apr 2019 21:35:40 +0200</pubDate>
       <dc:date>2019-04-16T21:35:40.062793+02:00</dc:date>
     </item>
-    <dc:date>2019-05-23T05:14:47.599175+02:00</dc:date>
+    <dc:date>2019-05-25T09:17:36.6244+02:00</dc:date>
   </channel>
 </rss>
