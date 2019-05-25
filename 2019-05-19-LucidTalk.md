@@ -66,8 +66,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% | Last Result |
-| 1 | 57% | 57% | Median |
+| 0 | 44% | 100% | Last Result |
+| 1 | 56% | 56% | Median |
 | 2 | 0% | 0% | Majority |
 
 ### Ulster Unionist Party (ECR)
@@ -154,8 +154,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% | Last Result |
-| 1 | 57% | 57% | Median |
+| 0 | 44% | 100% | Last Result |
+| 1 | 56% | 56% | Median |
 | 2 | 0% | 0% | Majority |
 
 
@@ -170,6 +170,6 @@
 ### Calculations
 
 + **Sample size:** 1482
-+ **Simulations done:** 524,288
-+ **Error estimate:** 0.90%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.76%
 
