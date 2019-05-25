@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/northern_irish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-05-21T03:02:50.131122+02:00</updated>
+  <updated>2019-05-25T09:17:36.6244+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Democratic Unionist Party (NI): 19.5–23.7%, 1 seats</li><li>Sinn Féin (GUE/NGL): 23.7–28.2%, 1–2 seats</li><li>Social Democratic and Labour Party (S&amp;D): 11.5–14.9%, 0–1 seats</li><li>Ulster Unionist Party (ECR): 10.1–13.3%, 0–1 seats</li><li>Alliance Party of Northern Ireland (ALDE): 9.9–13.2%, 0–1 seats</li><li>Traditional Unionist Voice (*): 7.8–10.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-05-19-LucidTalk.html</id>
+    <link href="https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-05-19-LucidTalk.html"/>
+    <title>Opinion Poll by LucidTalk, 18–19 May 2019</title>
+    <updated>2019-05-25T09:17:36.6244+02:00</updated>
+    <dc:date>2019-05-25T09:17:36.6244+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Democratic Unionist Party (NI): 18.2–22.4%, 1 seats</li><li>Sinn Féin (GUE/NGL): 24.9–29.6%, 1–2 seats</li><li>Social Democratic and Labour Party (S&amp;D): 11.4–15.0%, 0–1 seats</li><li>Ulster Unionist Party (ECR): 10.2–13.6%, 0–1 seats</li><li>Alliance Party of Northern Ireland (ALDE): 9.8–13.1%, 0 seats</li><li>Traditional Unionist Voice (*): 7.1–10.0%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-05-07-LucidTalk.html</id>
@@ -23,5 +31,5 @@
     <updated>2019-04-16T21:35:40.062793+02:00</updated>
     <dc:date>2019-04-16T21:35:40.062793+02:00</dc:date>
   </entry>
-  <dc:date>2019-05-21T03:02:50.131122+02:00</dc:date>
+  <dc:date>2019-05-25T09:17:36.6244+02:00</dc:date>
 </feed>
