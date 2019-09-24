@@ -10,3 +10,45 @@ Last result: **25.5%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 25.0% | 23.9–26.2% | 23.6–26.5% | 23.3–26.8% | 22.8–27.4% |
+| [9–12 August 2019](2019-08-12-LucidTalk.html) | LucidTalk | 25.0% | 23.9–26.2% | 23.6–26.6% | 23.3–26.8% | 22.8–27.4% |
+
+### Probability Mass Function
+
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Sinn Féin (GUE/NGL).
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.2% | 100% |  |
+| 22.5–23.5% | 4% | 99.8% |  |
+| 23.5–24.5% | 25% | 95% |  |
+| 24.5–25.5% | 42% | 70% | Median |
+| 25.5–26.5% | 24% | 29% | Last Result |
+| 26.5–27.5% | 5% | 5% |  |
+| 27.5–28.5% | 0.3% | 0.3% |  |
+| 28.5–29.5% | 0% | 0% |  |
+
+
+## Seats
+
+Last result: **1** seats (General Election of 23 May 2019)
+
+### Confidence Intervals
+
+| Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [9–12 August 2019](2019-08-12-LucidTalk.html) | LucidTalk | 1 | 1 | 1 | 1 | 1 |
+
+### Probability Mass Function
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-sinnféinguengl.png "Seats Probability Mass Function")
+
+The following table shows the probability mass function per seat for the [poll average](average.html) for Sinn Féin (GUE/NGL).
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 100% | 100% | Last Result, Median |
+
+
