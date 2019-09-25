@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/northern_irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 25 Sep 2019 08:31:54 +0200</pubDate>
+    <pubDate>Wed, 25 Sep 2019 08:41:33 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by LucidTalk, 9–12 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-08-12-LucidTalk.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Democratic Unionist Party (NI): 1 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Social Democratic and Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Ulster Unionist Party (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Alliance Party of Northern Ireland (RE): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-08-12-LucidTalk-seats.png"
+        length="91591"
+        type="image/png"/>
+      <pubDate>Wed, 25 Sep 2019 08:41:33 +0200</pubDate>
+      <dc:date>2019-09-25T08:41:33.1803+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by LucidTalk, 9–12 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-08-12-LucidTalk.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-08-12-LucidTalk-coalitions-seats.png"
+        length="66550"
+        type="image/png"/>
+      <pubDate>Wed, 25 Sep 2019 08:41:33 +0200</pubDate>
+      <dc:date>2019-09-25T08:41:33.1803+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by LucidTalk, 9–12 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-08-12-LucidTalk.html</link>
@@ -16,9 +36,9 @@
       <enclosure url="https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-08-12-LucidTalk.png"
         length="184807"
         type="image/png"/>
-      <pubDate>Wed, 25 Sep 2019 08:31:54 +0200</pubDate>
-      <dc:date>2019-09-25T08:31:54.931771+02:00</dc:date>
+      <pubDate>Wed, 25 Sep 2019 08:41:33 +0200</pubDate>
+      <dc:date>2019-09-25T08:41:33.1803+02:00</dc:date>
     </item>
-    <dc:date>2019-09-25T08:31:54.931771+02:00</dc:date>
+    <dc:date>2019-09-25T08:41:33.1803+02:00</dc:date>
   </channel>
 </rss>
