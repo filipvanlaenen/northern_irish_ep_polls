@@ -256,6 +256,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 1
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 524,288
-+ **Error estimate:** 3.92%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 1,048,576
++ **Error estimate:** 3.28%
