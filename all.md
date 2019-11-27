@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | SF | DUP | UUP | SDLP | TUV | Alliance |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 25.5% <br> 1 | 20.9% <br> 1 | 13.3% <br> 1 | 13.0% <br> 0 | 12.1% <br> 0 | 7.1% <br> 0 |
-| [30 October–1 November 2019](2019-11-01-LucidTalk.html) | LucidTalk <br> Remain United | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30 October–1 November 2019](2019-11-01-LucidTalk.html) | LucidTalk <br> Remain United | 22–26% <br> 1 | 26–30% <br> 1 | 8–10% <br> 0 | 13–15% <br> 0–1 | N/A <br> N/A | 15–18% <br> 0–1 |
 | [9–12 August 2019](2019-08-12-LucidTalk.html) | LucidTalk | 23–27% <br> 1 | 27–31% <br> 1 | 8–10% <br> 0 | 7–9% <br> 0 | N/A <br> N/A | 19–23% <br> 1 |
 | 23 May 2019 | General Election | 25.5% <br> 1 | 20.9% <br> 1 | 13.3% <br> 1 | 13.0% <br> 0 | 12.1% <br> 0 | 7.1% <br> 0 |
 
