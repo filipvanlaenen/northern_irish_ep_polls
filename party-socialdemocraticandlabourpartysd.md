@@ -37,8 +37,8 @@ Last result: **0** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30 October–1 November 2019](2019-11-01-LucidTalk.html) | LucidTalk <br> Remain United | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [30 October–1 November 2019](2019-11-01-LucidTalk.html) | LucidTalk <br> Remain United | 0 | 0 | 0 | 0–1 | 0–1 |
 | [9–12 August 2019](2019-08-12-LucidTalk.html) | LucidTalk | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -49,8 +49,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Last Result, Median |
-| 1 | 14% | 14% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 4% | 4% |  |
 | 2 | 0% | 0% | Majority |
 
 
