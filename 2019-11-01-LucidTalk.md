@@ -30,7 +30,7 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#democratic-unionist-party-(ni)">Democratic Unionist Party (NI)</a> | 1 | 1 | 1 |1 |1 |1–2 |
 | <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 1 | 1 | 1 |1 |1 |1 |
-| <a href="#alliance-party-of-northern-ireland-(re)">Alliance Party of Northern Ireland (RE)</a> | 0 | 1 | 1 |0–1 |0–1 |0–1 |
+| <a href="#alliance-party-of-northern-ireland-(re)">Alliance Party of Northern Ireland (RE)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
 | <a href="#social-democratic-and-labour-party-(s&d)">Social Democratic and Labour Party (S&D)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
 | <a href="#ulster-unionist-party-(ecr)">Ulster Unionist Party (ECR)</a> | 1 | 0 | 0 |0 |0 |0 |
 
@@ -42,8 +42,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 98% | 100% | Last Result, Median |
-| 2 | 2% | 2% | Majority |
+| 1 | 98.6% | 100% | Last Result, Median |
+| 2 | 1.4% | 1.4% | Majority |
 | 3 | 0% | 0% |  |
 
 ### Sinn Féin (GUE/NGL)
@@ -76,8 +76,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 4% | 4% |  |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
 | 2 | 0% | 0% | Majority |
 
 ### Ulster Unionist Party (ECR)
@@ -100,9 +100,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Democratic Unionist Party (NI) | 1 | 1 | 2% | 1 | 1 | 1 | 1–2 |
+| Democratic Unionist Party (NI) | 1 | 1 | 1.4% | 1 | 1 | 1 | 1–2 |
 | Sinn Féin (GUE/NGL) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
-| Alliance Party of Northern Ireland (RE) | 0 | 1 | 0% | 1 | 0–1 | 0–1 | 0–1 |
+| Alliance Party of Northern Ireland (RE) | 0 | 1 | 0% | 1 | 1 | 0–1 | 0–1 |
 | Social Democratic and Labour Party (S&D) | 0 | 0 | 0% | 0 | 0 | 0–1 | 0–1 |
 
 ### Democratic Unionist Party (NI)
@@ -111,8 +111,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 98% | 100% | Last Result, Median |
-| 2 | 2% | 2% | Majority |
+| 1 | 98.6% | 100% | Last Result, Median |
+| 2 | 1.4% | 1.4% | Majority |
 | 3 | 0% | 0% |  |
 
 ### Sinn Féin (GUE/NGL)
@@ -139,8 +139,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 4% | 4% |  |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
 | 2 | 0% | 0% | Majority |
 
 
@@ -155,6 +155,6 @@
 ### Calculations
 
 + **Sample size:** 2386
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.56%
++ **Simulations done:** 524,288
++ **Error estimate:** 0.24%
 
