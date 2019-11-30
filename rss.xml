@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/northern_irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Nov 2019 19:37:36 +0100</pubDate>
+    <pubDate>Sat, 30 Nov 2019 18:22:46 +0100</pubDate>
     <item>
       <title>Opinion Poll by LucidTalk for Remain United, 30 October–1 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-11-01-LucidTalk.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-11-01-LucidTalk.png"
         length="188076"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 19:37:36 +0100</pubDate>
-      <dc:date>2019-11-28T19:37:36.140827+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 18:22:46 +0100</pubDate>
+      <dc:date>2019-11-30T18:22:46.707803+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by LucidTalk, 9–12 August 2019 – Seat Projections for the Parties</title>
@@ -49,6 +49,6 @@
       <pubDate>Wed, 25 Sep 2019 08:41:33 +0200</pubDate>
       <dc:date>2019-09-25T08:41:33.1803+02:00</dc:date>
     </item>
-    <dc:date>2019-11-28T19:37:36.140827+01:00</dc:date>
+    <dc:date>2019-11-30T18:22:46.707803+01:00</dc:date>
   </channel>
 </rss>
