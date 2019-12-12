@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/northern_irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 30 Nov 2019 18:22:46 +0100</pubDate>
+    <pubDate>Thu, 12 Dec 2019 20:37:30 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by LucidTalk for Remain United, 27–30 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-11-30-LucidTalk.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Democratic Unionist Party (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Social Democratic and Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Ulster Unionist Party (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Alliance Party of Northern Ireland (RE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-11-30-LucidTalk-seats.png"
+        length="150015"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 20:37:30 +0100</pubDate>
+      <dc:date>2019-12-12T20:37:30.040056+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by LucidTalk for Remain United, 27–30 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-11-30-LucidTalk.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-11-30-LucidTalk-coalitions-seats.png"
+        length="116398"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 20:37:30 +0100</pubDate>
+      <dc:date>2019-12-12T20:37:30.040056+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by LucidTalk for Remain United, 27–30 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-11-30-LucidTalk.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Democratic Unionist Party (NI): 28.2–31.9%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 23.3–26.8%&lt;/li&gt;&lt;li&gt;Social Democratic and Labour Party (S&amp;amp;D): 11.7–14.4%&lt;/li&gt;&lt;li&gt;Ulster Unionist Party (ECR): 9.8–12.3%&lt;/li&gt;&lt;li&gt;Alliance Party of Northern Ireland (RE): 14.6–17.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-11-30-LucidTalk.png"
+        length="185536"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 20:37:30 +0100</pubDate>
+      <dc:date>2019-12-12T20:37:30.040056+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by LucidTalk for Remain United, 30 October–1 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/northern_irish_ep_polls/2019-11-01-LucidTalk.html</link>
@@ -49,6 +79,6 @@
       <pubDate>Wed, 25 Sep 2019 08:41:33 +0200</pubDate>
       <dc:date>2019-09-25T08:41:33.1803+02:00</dc:date>
     </item>
-    <dc:date>2019-11-30T18:22:46.707803+01:00</dc:date>
+    <dc:date>2019-12-12T20:37:30.040056+01:00</dc:date>
   </channel>
 </rss>
