@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | SF | DUP | UUP | SDLP | TUV | Alliance |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 25.5% <br> 1 | 20.9% <br> 1 | 13.3% <br> 1 | 13.0% <br> 0 | 12.1% <br> 0 | 7.1% <br> 0 |
-| N/A | Poll Average | 22–26% <br> 1 | 26–30% <br> 1 | 8–10% <br> 0 | 13–15% <br> 0–1 | N/A <br> N/A | 15–18% <br> 0–1 |
-| [30 October–1 November 2019](2019-11-01-LucidTalk.html) | LucidTalk <br> Remain United | 22–26% <br> 1 | 26–30% <br> 1 | 8–10% <br> 0 | 13–15% <br> 0–1 | N/A <br> N/A | 15–18% <br> 0–1 |
+| N/A | Poll Average | 23–27% <br> 1 | 28–32% <br> 1–2 | 10–12% <br> 0 | 12–14% <br> 0 | N/A <br> N/A | 15–18% <br> 0–1 |
+| [27–30 November 2019](2019-11-30-LucidTalk.html) | LucidTalk <br> Remain United | 23–27% <br> 1 | 28–32% <br> 1–2 | 10–12% <br> 0 | 12–14% <br> 0 | N/A <br> N/A | 15–18% <br> 0–1 |
 | 23 May 2019 | General Election | 25.5% <br> 1 | 20.9% <br> 1 | 13.3% <br> 1 | 13.0% <br> 0 | 12.1% <br> 0 | 7.1% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -35,10 +35,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 25.5% | 24.0% | 22.9–25.2% |22.6–25.5% | 22.4–25.8% | 21.8–26.3% |
-| <a href="#democratic-unionist-party-(ni)">Democratic Unionist Party (NI)</a> | 20.9% | 28.0% | 26.8–29.2% |26.5–29.5% | 26.2–29.8% | 25.7–30.4% |
-| <a href="#ulster-unionist-party-(ecr)">Ulster Unionist Party (ECR)</a> | 13.3% | 9.0% | 8.3–9.8% |8.1–10.0% | 7.9–10.2% | 7.6–10.6% |
-| <a href="#social-democratic-and-labour-party-(s&d)">Social Democratic and Labour Party (S&D)</a> | 13.0% | 14.0% | 13.1–14.9% |12.9–15.2% | 12.7–15.4% | 12.3–15.9% |
+| <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 25.5% | 25.0% | 23.9–26.2% |23.6–26.5% | 23.3–26.8% | 22.8–27.3% |
+| <a href="#democratic-unionist-party-(ni)">Democratic Unionist Party (NI)</a> | 20.9% | 30.0% | 28.8–31.2% |28.5–31.6% | 28.2–31.9% | 27.7–32.5% |
+| <a href="#ulster-unionist-party-(ecr)">Ulster Unionist Party (ECR)</a> | 13.3% | 11.0% | 10.2–11.8% |10.0–12.1% | 9.8–12.3% | 9.4–12.7% |
+| <a href="#social-democratic-and-labour-party-(s&d)">Social Democratic and Labour Party (S&D)</a> | 13.0% | 13.0% | 12.2–13.9% |11.9–14.2% | 11.7–14.4% | 11.3–14.9% |
 | <a href="#traditional-unionist-voice-(*)">Traditional Unionist Voice (*)</a> | 12.1% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#alliance-party-of-northern-ireland-(re)">Alliance Party of Northern Ireland (RE)</a> | 7.1% | 16.0% | 15.1–17.0% |14.8–17.3% | 14.6–17.5% | 14.2–18.0% |
 
@@ -48,15 +48,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.2% | 100% |  |
-| 21.5–22.5% | 4% | 99.8% |  |
-| 22.5–23.5% | 25% | 96% |  |
-| 23.5–24.5% | 44% | 71% | Median |
-| 24.5–25.5% | 23% | 27% |  |
-| 25.5–26.5% | 4% | 4% | Last Result |
-| 26.5–27.5% | 0.2% | 0.2% |  |
-| 27.5–28.5% | 0% | 0% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.2% | 100% |  |
+| 22.5–23.5% | 4% | 99.8% |  |
+| 23.5–24.5% | 25% | 96% |  |
+| 24.5–25.5% | 43% | 71% | Median |
+| 25.5–26.5% | 24% | 28% | Last Result |
+| 26.5–27.5% | 4% | 4% |  |
+| 27.5–28.5% | 0.2% | 0.2% |  |
+| 28.5–29.5% | 0% | 0% |  |
 
 ### Democratic Unionist Party (NI)
 
@@ -68,14 +68,16 @@ Only polls for which at least the sample size has been published are included in
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.3% | 100% |  |
-| 25.5–26.5% | 5% | 99.7% |  |
-| 26.5–27.5% | 26% | 95% |  |
-| 27.5–28.5% | 41% | 69% | Median |
-| 28.5–29.5% | 23% | 28% |  |
-| 29.5–30.5% | 4% | 5% |  |
-| 30.5–31.5% | 0.3% | 0.3% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 24.5–25.5% | 0% | 100% |  |
+| 25.5–26.5% | 0% | 100% |  |
+| 26.5–27.5% | 0.3% | 100% |  |
+| 27.5–28.5% | 5% | 99.7% |  |
+| 28.5–29.5% | 25% | 95% |  |
+| 29.5–30.5% | 41% | 70% | Median |
+| 30.5–31.5% | 24% | 29% |  |
+| 31.5–32.5% | 5% | 5% |  |
+| 32.5–33.5% | 0.4% | 0.4% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 ### Ulster Unionist Party (ECR)
 
@@ -83,14 +85,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.4% | 100% |  |
-| 7.5–8.5% | 20% | 99.6% |  |
-| 8.5–9.5% | 61% | 80% | Median |
-| 9.5–10.5% | 18% | 19% |  |
-| 10.5–11.5% | 0.7% | 0.7% |  |
-| 11.5–12.5% | 0% | 0% |  |
-| 12.5–13.5% | 0% | 0% | Last Result |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0.9% | 100% |  |
+| 9.5–10.5% | 22% | 99.1% |  |
+| 10.5–11.5% | 57% | 77% | Median |
+| 11.5–12.5% | 19% | 20% |  |
+| 12.5–13.5% | 1.0% | 1.0% | Last Result |
+| 13.5–14.5% | 0% | 0% |  |
 
 ### Social Democratic and Labour Party (S&D)
 
@@ -98,13 +99,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 2% | 100% |  |
-| 12.5–13.5% | 24% | 98% | Last Result |
-| 13.5–14.5% | 52% | 75% | Median |
-| 14.5–15.5% | 21% | 23% |  |
-| 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 1.3% | 100% |  |
+| 11.5–12.5% | 22% | 98.7% |  |
+| 12.5–13.5% | 54% | 76% | Last Result, Median |
+| 13.5–14.5% | 21% | 22% |  |
+| 14.5–15.5% | 1.5% | 1.5% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 ### Alliance Party of Northern Ireland (RE)
 
@@ -120,9 +121,9 @@ Only polls for which at least the sample size has been published are included in
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 2% | 100% |  |
-| 14.5–15.5% | 24% | 98% |  |
-| 15.5–16.5% | 50% | 74% | Median |
-| 16.5–17.5% | 22% | 24% |  |
+| 14.5–15.5% | 23% | 98% |  |
+| 15.5–16.5% | 50% | 75% | Median |
+| 16.5–17.5% | 22% | 25% |  |
 | 17.5–18.5% | 2% | 2% |  |
 | 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
@@ -139,11 +140,11 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 1 | 1 | 1 |1 | 1 | 1 |
-| <a href="#democratic-unionist-party-(ni)">Democratic Unionist Party (NI)</a> | 1 | 1 | 1 |1 | 1 | 1–2 |
+| <a href="#democratic-unionist-party-(ni)">Democratic Unionist Party (NI)</a> | 1 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#ulster-unionist-party-(ecr)">Ulster Unionist Party (ECR)</a> | 1 | 0 | 0 |0 | 0 | 0 |
-| <a href="#social-democratic-and-labour-party-(s&d)">Social Democratic and Labour Party (S&D)</a> | 0 | 0 | 0 |0 | 0–1 | 0–1 |
+| <a href="#social-democratic-and-labour-party-(s&d)">Social Democratic and Labour Party (S&D)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#traditional-unionist-voice-(*)">Traditional Unionist Voice (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#alliance-party-of-northern-ireland-(re)">Alliance Party of Northern Ireland (RE)</a> | 0 | 1 | 1 |1 | 0–1 | 0–1 |
+| <a href="#alliance-party-of-northern-ireland-(re)">Alliance Party of Northern Ireland (RE)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 
 ### Sinn Féin (GUE/NGL)
 
@@ -163,8 +164,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 98.6% | 100% | Last Result, Median |
-| 2 | 1.4% | 1.4% | Majority |
+| 1 | 85% | 100% | Last Result, Median |
+| 2 | 15% | 15% | Majority |
 | 3 | 0% | 0% |  |
 
 ### Ulster Unionist Party (ECR)
@@ -186,8 +187,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 3% | 3% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% | Majority |
 
 ### Alliance Party of Northern Ireland (RE)
@@ -198,8 +199,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 95% | 95% | Median |
+| 0 | 15% | 100% | Last Result |
+| 1 | 85% | 85% | Median |
 | 2 | 0% | 0% | Majority |
 
 
@@ -211,10 +212,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Democratic Unionist Party (NI) | 1 | 1 | 1.4% | 1 | 1 | 1 | 1–2 |
+| Democratic Unionist Party (NI) | 1 | 1 | 15% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sinn Féin (GUE/NGL) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
-| Alliance Party of Northern Ireland (RE) | 0 | 1 | 0% | 1 | 1 | 0–1 | 0–1 |
-| Social Democratic and Labour Party (S&D) | 0 | 0 | 0% | 0 | 0 | 0–1 | 0–1 |
+| Alliance Party of Northern Ireland (RE) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Social Democratic and Labour Party (S&D) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Democratic Unionist Party (NI)
 
@@ -222,8 +223,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 98.6% | 100% | Last Result, Median |
-| 2 | 1.4% | 1.4% | Majority |
+| 1 | 85% | 100% | Last Result, Median |
+| 2 | 15% | 15% | Majority |
 | 3 | 0% | 0% |  |
 
 ### Sinn Féin (GUE/NGL)
@@ -240,8 +241,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 95% | 95% | Median |
+| 0 | 15% | 100% | Last Result |
+| 1 | 85% | 85% | Median |
 | 2 | 0% | 0% | Majority |
 
 ### Social Democratic and Labour Party (S&D)
@@ -250,14 +251,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 3% | 3% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% | Majority |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 1
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 524,288
-+ **Error estimate:** 0.24%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 1,048,576
++ **Error estimate:** 0.49%
